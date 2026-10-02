@@ -1,0 +1,13 @@
+Debug/
+[Rr]elease/
+x64/
+x86/
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.nupkg
+*.DotSettings.user
+packages/
+TestResults/
